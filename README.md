@@ -18,9 +18,7 @@ A responsive EMI Calculator built using ReactJS.
 - JavaScript
 
 ## Live Demo
-
-Add your deployed URL here
-
+https://emi-calculator-five-alpha.vercel.app/
 ## Author
 
 Sparsh Shukla
@@ -29,5 +27,3 @@ Sparsh Shukla
 
 Includes a "Built for Digital Heroes" button that redirects to:
 https://digitalheroesco.com
-
-🔗 **[View Live App →](https://emi-calculator-five-alpha.vercel.app/)**
